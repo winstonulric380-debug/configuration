@@ -1,6 +1,0 @@
----
-dependencies:
-  - role: common
-    tags:
-      - always
-  - config-encoders

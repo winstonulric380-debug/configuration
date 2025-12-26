@@ -1,3 +1,0 @@
----
-secure_dir: '../../configuration-secure/ansible'
-local_dir:  '../../configuration-secure/ansible/local'

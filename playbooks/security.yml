@@ -1,5 +1,0 @@
-- name: Apply security role
-  hosts: all
-  become: True
-  roles:
-    - security
